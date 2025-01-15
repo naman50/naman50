@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on SwiftUi
+🔭 I’m currently working in SwiftUi
 
 📫 How to reach me: naman@namansinha.xyz
 <!--
