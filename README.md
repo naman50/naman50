@@ -3,6 +3,8 @@
 🔭 I’m currently working in SwiftUi
 
 📫 How to reach me: naman@namansinha.xyz
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Naman_Legit)
 <!--
 **naman50/naman50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
