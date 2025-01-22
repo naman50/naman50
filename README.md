@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-🔭 I’m currently working in SwiftUi
-
-📫 How to reach me: naman@namansinha.xyz
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/naman-sinha-50143a321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lnaman-sinha-50143a321" height="30" width="40" /></a>
+</p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Naman_Legit)
 <!--
