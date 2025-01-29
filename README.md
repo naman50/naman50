@@ -8,7 +8,7 @@
 </p>
 <h2>LeetCode Stats - </h2>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Naman_Legit)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Naman_Legit?ext=contest)
 
 <!--
 **naman50/naman50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
